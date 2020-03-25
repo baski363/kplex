@@ -1,5 +1,5 @@
 # _k_-plex
-This repository contains codes used in the computational study reported in the article for **"Approaches for finding cohesive subgroups in large‐scale social networks via maximum k‐plex detection"** that has been published in the _Networks_. If you wish to use or cite this code, please cite the paper:
+This repository contains codes used in the computational study reported in the article for **"Approaches for finding cohesive subgroups in large‐scale social networks via maximum k‐plex detection"** that has been published in the journal _Networks_ in 2017. If you wish to use or cite this code, please cite the paper:
 ```
 @article{BBZMkplexGRASP2017,
 Author = {Zhuqi Miao and Balabhaskar Balasundaram},
